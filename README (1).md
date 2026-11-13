@@ -62,10 +62,8 @@ Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, statsmodels.
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy statsmodels jupyter
-jupyter notebook AB_Testing_Campaign_Analysis_corrected.ipynb
+jupyter notebook AB_Testing_Campaign_Analysi.ipynb
 ```
-
-Place `AB testing new marketing data.csv` in the same folder as the notebook.
 
 ## Repository Structure
 
